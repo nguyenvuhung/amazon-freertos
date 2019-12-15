@@ -16,4 +16,4 @@ RemoteSystemsTempFiles/*
 
 # Ignore top-level build dir
 /build*/
-
+*.onetoc2
